@@ -3,3 +3,6 @@ Repo For Optical Flow Sensor
 
 ![Optical Flow](Optical_flow.jpg)
 
+The ROS 2 Optical Flow Sensor package provides **real-time motion estimation** by analyzing the **displacement of visual features between consecutive camera frames**. Using computer vision techniques implemented with OpenCV, the package calculates optical flow vectors and publishes the resulting motion estimates as ROS 2 topics.
+
+Optical flow is widely used in robotics to estimate the relative movement of a robot or camera without relying solely on GPS or wheel encoders. This package can be integrated into mobile robots, drones, autonomous vehicles, and research platforms requiring visual motion estimation.
