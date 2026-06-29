@@ -43,7 +43,11 @@ Then clone the Reposetriy :
 
 `cd ..`
 
+Then Build : 
+
 `colcon build`
+
+Then Source : 
 
 `source install/setup.bash`
 
