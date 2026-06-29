@@ -33,7 +33,19 @@ The sensor’s effectiveness depends on several factors, including :
 
 ## Installing the Packages : 
 
-`clone `
+First Inside Any workspace you have go inside it : 
+
+`cd ~/ros2_ws/src`
+
+Then clone the Reposetriy : 
+
+`git clone https://github.com/adityakamath/optical_flow_ros.git`
+
+`cd ..`
+
+`colcon build`
+
+`source install/setup.bash`
 
 ## Messeage type : 
 
