@@ -17,7 +17,7 @@ The magic behind these sensors lies in their ability to analyze changes in the v
 
 The sensor’s output is typically a set of vectors representing the direction and magnitude of the motion detected. This data can be further processed to provide more advanced information, such as the device’s altitude, orientation, and even its proximity to obstacles. 
 
-![Optical Flow]()
+![Optical Flow](flow.png)
 
 
 
